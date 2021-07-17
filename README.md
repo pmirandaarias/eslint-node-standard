@@ -24,9 +24,9 @@ Create an `.eslintrc` file at the root of your project with:
 ```
 {
   "env": {
-	"jest": true,
+    "jest": true,
     "mongo": true,
-	"node": true,
+    "node": true,
   },
   "extends": [
     "eslint:recommended",
